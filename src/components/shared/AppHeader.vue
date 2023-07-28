@@ -23,21 +23,27 @@ export default {
 					value: 'web',
 					name: 'Web Application',
 				},
+        {
+          id: 2,
+          value: 'web',
+          name: 'Frontend Web development'
+        },
+        {
+          id: 3,
+          value: 'web',
+          name: 'Backend Web development'
+        },
 				{
-					id: 2,
-					value: 'mobile',
-					name: 'Mobile Application',
-				},
-				{
-					id: 3,
+					id: 4,
 					value: 'ui-ux',
 					name: 'UI/UX Design',
 				},
-				{
-					id: 4,
-					value: 'branding',
-					name: 'Branding & Anim',
-				},
+        {
+          id:4,
+          value: 'graphics',
+          name: 'Graphics Design'
+        }
+
 			],
 		};
 	},
