@@ -4,14 +4,14 @@
 const projects = [
 	{
 		id: 1,
-		title: 'Google Health Platform',
+		title: 'GeloWeather ',
 		category: 'Web Application',
-		img: require('@/assets/images/web-project-2.jpg'),
+		img: require('@/assets/images/weather.jpg'),
 	},
 	{
 		id: 2,
-		title: 'Phoenix Digital Agency',
-		category: 'Mobile Application',
+		title: 'Authentication System',
+		category: 'Web Application',
 		img: require('@/assets/images/mobile-project-2.jpg'),
 	},
 	{
@@ -34,7 +34,7 @@ const projects = [
 	},
 	{
 		id: 6,
-		title: 'Apple Design System',
+		title: 'Brand: Online shopping site',
 		category: 'Web Application',
 		img: require('@/assets/images/web-project-1.jpg'),
 	},
