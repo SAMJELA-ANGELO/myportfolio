@@ -16,7 +16,7 @@ const projects = [
 	},
 	{
 		id: 3,
-		title: 'Project Management UI',
+		title: 'Pavoce UI',
 		category: 'UI/UX Design',
 		img: require('@/assets/images/ui-project-1.jpg'),
 	},
