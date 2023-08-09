@@ -26,7 +26,7 @@ export const socialLinks = [
 	{
 		id: 5,
 		name: 'Gitlab',
-		icon: 'youtube',
+		icon: 'gitlab',
 		url: 'https://gitlab.com/samjela',
 	},
 ];
