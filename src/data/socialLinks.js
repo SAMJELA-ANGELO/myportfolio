@@ -3,7 +3,7 @@ export const socialLinks = [
 		id: 1,
 		name: 'Website',
 		icon: 'globe',
-		url: 'https://www.stoman.me/',
+		url: 'https://geloportfolio.netlify.app/',
 	},
 	{
 		id: 2,
@@ -22,11 +22,11 @@ export const socialLinks = [
 		name: 'LinkedIn',
 		icon: 'linkedin',
 		url: 'https://www.linkedin.com/in/samjela',
-	}
-	// {
-	// 	id: 5,
-	// 	name: 'YouTube',
-	// 	icon: 'youtube',
-	// 	url: 'https://www.youtube.com/c/realstoman',
-	// },
+	},
+	{
+		id: 5,
+		name: 'Gitlab',
+		icon: 'youtube',
+		url: 'https://gitlab.com/samjela',
+	},
 ];
